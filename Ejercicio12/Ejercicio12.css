@@ -1,0 +1,13 @@
+button {
+    margin: 10px;
+}
+#cuadrado {
+    width: 80px;
+    height: 80px;
+    background: #911;
+    position: relative;
+    transition: transform 2s ease;
+}
+.mover {
+    transform: translateX(300px);
+}
